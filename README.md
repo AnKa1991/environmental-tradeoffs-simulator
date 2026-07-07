@@ -81,8 +81,7 @@ This repository contains a public version of the application without password pr
 
 ## Author
 
-**Anna Korzeniewska**  
-AGH University of Krakow
+**AnKa1991**  
 
 ## License
 
