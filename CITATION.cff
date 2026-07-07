@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Environmental Trade-offs Simulator"
+message: "If you use this educational simulator, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Korzeniewska"
+    given-names: "Anna"
+year: 2026
+license: MIT
+repository-code: "https://github.com/AnKa1991/environmental-tradeoffs-simulator"
+abstract: "Educational web-based simulator of environmental decision-making trade-offs for students."
