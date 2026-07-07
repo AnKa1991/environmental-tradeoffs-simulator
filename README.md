@@ -6,7 +6,9 @@ The application is written in Polish and was created as a teaching tool for stud
 
 ## Live version
 
-After publishing the repository with GitHub Pages, the application can be opened directly in a web browser.
+The application is available online at:
+
+https://anka1991.github.io/environmental-tradeoffs-simulator/
 
 ## Educational purpose
 
@@ -78,6 +80,10 @@ In the application, select the desired scenario and click the report generation 
 ## Notes
 
 This repository contains a public version of the application without password protection. The previous password gate was removed because client-side passwords in static web applications are visible in the source code and should not be treated as real security.
+
+## Language
+
+The application interface and educational content are in Polish.
 
 ## Author
 
